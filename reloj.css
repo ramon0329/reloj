@@ -1,0 +1,31 @@
+body{
+    background-color: green;
+    text-align: center;
+    margin-top: 300px;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+}
+.hora{
+    font-size: 50px;
+    margin-left: auto;
+    background-color: red;
+    font-family: 'Bellota Text', cursive;
+}
+.mn{
+    padding-left: 5px;
+    font-size: 50px;
+    margin-right: auto;
+    background-color: green;
+    font-family: 'Bellota Text', cursive;
+}
+.hora2{
+    background-color:blue;
+}
+.hora3{
+    background-color: red;
+}
+.negro{
+    background-color: purple);
+    font-family: 'Bellota Text', cursive;
+}
